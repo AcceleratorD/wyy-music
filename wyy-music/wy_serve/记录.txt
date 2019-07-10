@@ -1,0 +1,40 @@
+
+app.js
+端口：
+app 3000
+脚手架 8080
+
+跨域
+
+
+
+登录：验证账号密码是否正确
+注册：正则
+mymusic
+
+（）为待完成功能
+wy.sql
+用户wy_uesr
+uid phone upwd uname
+加密 md5()*2
+session保存登录状态获取uid对应用户歌单信息（及歌单列表以及歌单歌单列表的增删改）
+
+歌曲详情wy_music
+id img name Arter special path
+
+推荐歌单wy_tjsheet
+tid simg uimg sname suname detail ids
+（传参歌单tid 热度变更 推荐功能）
+
+我的歌单wy_sheet
+lid uid img lname count ids
+
+朋友wy_friend
+fid name number text img
+
+
+
+
+
+
+
